@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iBloodPressure", "iBloodPressure\iBloodPressure.csproj", "{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Release|iPhone.Build.0 = Release|iPhone
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D1F263F7-C0DB-4B75-8262-4EDD5BBC058E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = iBloodPressure\iBloodPressure.csproj
+	EndGlobalSection
+EndGlobal
